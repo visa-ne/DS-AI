@@ -1,4 +1,7 @@
-"# DS-AI" 
-First edit is made on readme.md file 
-This repo is created to practice DS using python 
-Scripts added now 1. Pandas.ipynb
+"# DS-AI"  
+This is an intro module for practicing datascience using Python
+Expectation is basics of python 
+
++++ 
+
+Scripts added now 1. Pandas.ipynb + Movies dataset
