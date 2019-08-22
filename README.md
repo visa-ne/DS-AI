@@ -5,3 +5,7 @@ Expectation is basics of python
 +++ 
 
 Scripts added now 1. Pandas.ipynb + Movies dataset
+
+++++ 
+
+Matplotlib code updated
